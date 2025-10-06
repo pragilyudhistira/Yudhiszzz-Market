@@ -1,2 +1,41 @@
 # Yudhiszzz-Market
 mapel pilihan 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pasar Yudhiszz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">
+      🧺 <span>Pasar Segar</span>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#">Beranda</a></li>
+        <li><a href="#">Produk</a></li>
+        <li><a href="#">Kontak</a></li>
+      </ul>
+    </nav>
+    <div class="cart">🛍️</div>
+  </header>
+
+  <main class="hero">
+    <h1>Pasar Yudhiszz</h1>
+    <p>KAMI AKAN MEMBERIKAN SEMUA YANG ANDA BUTUHKAN</p>
+    <a href="https://pragilyudhistira.wixsite.com/my-site-20" class="btn" target="_blank">BELANJA ONLINE</a>
+  </main>
+
+  <section class="offer">
+    <h2>Penawaran Mingguan</h2>
+    <img src="https://cdn.pixabay.com/photo/2016/03/27/22/22/eco-bag-1284461_1280.jpg" alt="Tas belanja" />
+  </section>
+
+  <footer>
+    <p>© 2025 Pasar Yudhiszz. Dibangun dengan ❤️ untuk semua pelanggan.</p>
+  </footer>
+</body>
+</html>
